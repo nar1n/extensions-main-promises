@@ -346,7 +346,7 @@ exports.Paperback = exports.parseMangaStatus = exports.PaperbackInfo = void 0;
 const paperback_extensions_common_1 = require("paperback-extensions-common");
 const Languages_1 = require("./Languages");
 exports.PaperbackInfo = {
-    version: '2.0.0',
+    version: '2.0.1',
     name: 'Paperback',
     icon: 'icon.png',
     author: 'Lemon & Faizan Durrani',
